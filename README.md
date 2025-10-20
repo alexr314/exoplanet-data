@@ -15,7 +15,9 @@ To clone this repository and ensure large files are downloaded (we use Git LFS f
 
 1. Install Git LFS: follow https://git-lfs.github.com/ or use Homebrew (macOS):
 
+```
 	brew install git-lfs
+```
 
 2. Clone the repo and fetch LFS objects:
 
