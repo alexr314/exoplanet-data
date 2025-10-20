@@ -19,9 +19,11 @@ To clone this repository and ensure large files are downloaded (we use Git LFS f
 
 2. Clone the repo and fetch LFS objects:
 
+```
 	git clone https://github.com/alexr314/exoplanet-data.git
 	cd exoplanet-data
 	git lfs install
 	git lfs pull
+```
 
 This will place the `spectra.csv` dataset under `ariel_dataset/`.
